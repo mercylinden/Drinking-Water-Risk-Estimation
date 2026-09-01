@@ -36,7 +36,7 @@ The code also anticipates a viability estimate, named 'viability.csv' in the bel
 
 | SampleID | Metadata | HPC | DNA yield | Intact cell counts | Total cell counts |
 | ---- | ----- | ----- | ----- | ----- | ----- |
-| ID1 | Concentration | Concentration | Concentration | Count  Count |
+| ID1 | Concentration | Concentration | Concentration | Count | Count |
 | ID2 | Concentration | Concentration | Concentration | Count | Count |
 | Etc... | Concentration | Concentration |Concentration | Count | Count |
 
